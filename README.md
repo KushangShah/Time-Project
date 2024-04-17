@@ -1,4 +1,5 @@
 # Time-Project
+Click on "raw" on right side of you screec
 The peace of code converts user input time in 24 hour format into 12 hour O'clock time. 
 
 The input method should be like this: 
